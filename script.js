@@ -21,3 +21,4 @@ console.log("User Answer:", answer);
 
 let name = prompt("Enter your name again:");
 document.writeln("<h2>Hello " + name + "</h2>");
+console.clear();

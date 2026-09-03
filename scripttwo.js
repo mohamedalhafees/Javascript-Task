@@ -297,3 +297,4 @@ console.log("Multiplication:", firstNumber * secondNumber);
 console.log("Division:", firstNumber / secondNumber);
 console.log("Modulus:", firstNumber % secondNumber);
 console.log("Power:", firstNumber ** secondNumber);
+console.clear();
